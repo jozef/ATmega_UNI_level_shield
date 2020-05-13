@@ -1,0 +1,17 @@
+NAME
+
+    ATmega UNI Level Shield - voltage level shifter shield
+
+DESCRIPTION
+
+    Small shield for two digital pins when 5V←→3.3V voltage level shifting
+    is needed.
+
+LICENSE
+
+    This is free software & hardware, licensed under the MIT License.
+
+AUTHOR
+
+        Jozef Kutej
+
